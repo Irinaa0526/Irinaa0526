@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Irina 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Oriya&pause=1000&color=000000&width=435&lines=Java+backend+developer+👨‍💻)](https://git.io/typing-svg) 
+
 
 <!--
 **Irinaa0526/Irinaa0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
